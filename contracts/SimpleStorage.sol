@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.24; //state our version if you put ^0.8.19 our contract will work with any version equal or greatter than 0.8.19, for example 0.8.20
+pragma solidity ^0.8.18; //state our version if you put ^0.8.19 our contract will work with any version equal or greatter than 0.8.19, for example 0.8.20
 
 contract SimpleStorage {
     uint256 myfavoriteNumber; //por defecto la visibilidad de las variables es internal
